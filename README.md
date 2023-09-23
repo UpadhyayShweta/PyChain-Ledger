@@ -9,12 +9,15 @@
 ---
 ## Files
 
-Download the following files to help you get started:
-
 [PyChain Ledger Notebook](pychain.py)
 
 ---
 
-## Result
+## Result/Summary
+
+**Streamlit** is an open-source app framework in python language.
+It helps us create beautiful web apps for data science and machine learning in a 
+little time. It is compatible with major python libraries such as scikit-learn, 
+keras, PyTorch, latex, numpy, pandas, matplotlib, etc.
 
 
